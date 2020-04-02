@@ -584,3 +584,184 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-03-28 10:37:08,980 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-03-28 10:37:08,982 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-03-28 10:37:08,983 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-29 14:44:08,657 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-29 14:44:12,381 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-03-29 14:44:12,830 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 14:44:12,836 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-29 14:44:12,845 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-29 14:44:12,847 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:07:29,276 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-30 19:07:32,675 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-03-30 19:07:33,091 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:07:33,098 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:07:33,104 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:07:33,105 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:29:59,850 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:29:59,871 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:29:59,875 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:29:59,876 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:35:04,968 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:35:04,969 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:35:04,971 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:35:04,972 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:36:30,263 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:36:30,265 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:36:30,266 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:36:30,267 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:36:51,575 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:36:51,580 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:36:51,582 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:36:51,583 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:37:31,393 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:37:31,394 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:37:31,396 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:37:31,397 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:37:56,840 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:37:56,842 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:37:56,843 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:37:56,844 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:45:31,700 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:45:31,703 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:45:31,707 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:45:31,708 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:45:46,526 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:45:46,528 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:45:46,530 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:45:46,531 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:46:29,874 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:46:29,875 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:46:29,877 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:46:29,879 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:46:45,296 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:46:45,298 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:46:45,299 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:46:45,300 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:46:54,402 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:46:54,404 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:46:54,405 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:46:54,406 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:47:03,120 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:47:03,122 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:47:03,124 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:47:03,125 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:47:14,240 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:47:14,241 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:47:14,243 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:47:14,243 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:47:38,695 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:47:38,697 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:47:38,698 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:47:38,699 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:47:50,253 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:47:50,255 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:47:50,258 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:47:50,259 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:48:01,404 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:01,405 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:48:01,407 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:01,408 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:48:16,397 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:16,398 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:48:16,400 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:16,400 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:48:27,745 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:27,747 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:48:27,748 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:27,749 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:48:37,638 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:37,639 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:48:37,640 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:37,641 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:48:50,315 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:50,316 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:48:50,318 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:48:50,318 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:49:00,575 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:49:00,576 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:49:00,578 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:49:00,579 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 19:49:10,408 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:49:10,409 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 19:49:10,410 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 19:49:10,411 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:15:06,336 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:15:06,339 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 20:15:06,340 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:15:06,341 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:16:14,672 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:16:14,675 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 20:16:14,676 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:16:14,678 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:16:23,240 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:16:23,241 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 20:16:23,242 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:16:23,242 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:17:06,664 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:17:06,666 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 20:17:06,667 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:17:06,668 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:26:16,172 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:26:16,173 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-30 20:26:16,174 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:26:16,175 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:26:30,898 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:26:30,899 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-30 20:26:30,902 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:26:30,903 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:28:17,370 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:28:17,371 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-30 20:28:17,371 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:28:17,372 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:28:30,908 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:28:30,909 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-30 20:28:30,910 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:28:30,915 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:34:35,164 [Worker-41: Launching Executing clean in _Users_ariqhe_Documents_Personal Documents_UCLA_2019-2020_Lai Offer_Project Class_Spring Project_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop
+2020-03-30 20:34:35,172 [Worker-41: Launching Executing clean in _Users_ariqhe_Documents_Personal Documents_UCLA_2019-2020_Lai Offer_Project Class_Spring Project_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-03-30 20:34:37,178 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:34:37,180 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 20:34:37,184 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:34:37,185 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-03-30 20:34:37,185 [Worker-50: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of onlineShop
+2020-03-30 20:34:37,191 [Worker-50: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for onlineShop
+2020-03-30 20:34:37,213 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:34:45,774 [Worker-49: Launching Executing install in _Users_ariqhe_Documents_Personal Documents_UCLA_2019-2020_Lai Offer_Project Class_Spring Project_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop
+2020-03-30 20:34:45,774 [Worker-49: Launching Executing install in _Users_ariqhe_Documents_Personal Documents_UCLA_2019-2020_Lai Offer_Project Class_Spring Project_onlineShop] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-30 20:34:52,374 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:34:52,376 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 20:34:52,377 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 20:34:52,378 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-04-01 19:02:39,824 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-01 19:02:45,200 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.0.10.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.10.Final
+2020-04-01 19:02:45,808 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 19:02:45,813 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 19:02:45,824 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 19:02:45,825 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-04-01 20:38:36,699 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:38:36,710 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-01 20:38:36,712 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:38:36,713 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-04-01 20:46:51,707 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:46:51,730 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 20:46:51,733 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:46:51,734 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-04-01 20:47:09,617 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:47:09,618 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 20:47:09,620 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:47:09,622 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-04-01 20:47:28,020 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:47:28,022 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 20:47:28,023 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:47:28,024 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-04-01 20:48:30,950 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:48:30,952 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 20:48:30,954 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:48:30,955 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-04-01 20:48:43,894 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:48:43,896 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 20:48:43,898 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:48:43,899 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources
+2020-04-01 20:49:00,385 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:49:00,387 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 20:49:00,391 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 20:49:00,392 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/onlineShop/src/test/resources

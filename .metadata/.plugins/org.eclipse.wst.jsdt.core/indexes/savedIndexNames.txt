@@ -1,10 +1,7 @@
-INDEX VERSION 1.4+/Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/Lai Offer/Project Class/Spring Project/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-571318081.index
-3515461580.index
-723275003.index
-4244220203.index
-1627918439.index
-3305826856.index
+INDEX VERSION 1.4+/Users/ariqhe/Documents/Personal Documents/UCLA/2019-2020/LaiOffer/Project Class/Spring Project/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
 502585699.index
-3697829598.index
-2579328708.index
+1039628600.index
+2122398860.index
+247834713.index
+3360821544.index
+405320766.index
